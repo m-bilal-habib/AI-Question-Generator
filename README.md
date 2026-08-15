@@ -1,8 +1,26 @@
+<div align="center">
+
 # 🧠 AI Question Generator
 
-A lightweight Streamlit app that generates strictly context-grounded academic questions, answers, and explanations from any provided text.
+**A lightweight application to generate context-grounded academic questions, answers, and explanations from any source text.**
+
+<br>
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-question-generator-evlrgyheacxa4yefkgjbol.streamlit.app/)
+[![Python](https://img.shields.io/badge/PYTHON-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Model](https://img.shields.io/badge/MODEL-QWEN_2.5_7B-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)
+[![Framework](https://img.shields.io/badge/FRAMEWORK-LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/)
+
+<br>
+
+**Author:** [M Bilal Habib](https://github.com/m-bilal-habib)
+
+</div>
 
 ---
+
+
+
 
 ## 🤖 Model Information
 
